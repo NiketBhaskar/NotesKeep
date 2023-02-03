@@ -1,9 +1,8 @@
-package com.example.noteskeep
+package com.example.noteskeep.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.core.view.isGone
-import androidx.fragment.app.Fragment
+import com.example.noteskeep.R
 import com.example.noteskeep.databinding.ActivityAuthBinding
 
 class AuthActivity : AppCompatActivity() {

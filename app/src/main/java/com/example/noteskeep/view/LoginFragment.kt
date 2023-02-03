@@ -1,10 +1,11 @@
-package com.example.noteskeep
+package com.example.noteskeep.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.noteskeep.R
 import com.example.noteskeep.databinding.FragmentLoginBinding
 
 class LoginFragment : Fragment() {
