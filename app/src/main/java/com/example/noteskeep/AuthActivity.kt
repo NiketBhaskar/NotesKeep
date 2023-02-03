@@ -19,11 +19,6 @@ class AuthActivity : AppCompatActivity() {
             .replace(R.id.fragmentContainer, LoginFragment())
             .addToBackStack(null)
             .commit()
-
-
-
-
-
     }
 
 }
